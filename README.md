@@ -19,7 +19,7 @@ The Traffic Count App is a simple application that allows users to count and tra
 2. Install the required dependencies by running the following command:
 pip install -r requirements.txt
 
-3. Run the application by executing the `main.py` file:
+3. Run the application by executing the `Traffic_count.py` file:
 
 
 4. The application window will open, displaying two sections for counting vehicles in "Direction A" and "Direction B".
